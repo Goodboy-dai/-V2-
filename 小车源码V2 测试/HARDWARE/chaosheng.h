@@ -1,0 +1,9 @@
+#ifndef chaosheng
+#define chaosheng
+
+void trig_init(void);
+void sheng_init(void);		//≥¨…˘≤® ‰»Î≤∂ªÒ
+void trig(void);
+void get_Distance(void);
+
+#endif
